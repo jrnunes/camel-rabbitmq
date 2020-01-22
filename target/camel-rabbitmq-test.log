@@ -1,0 +1,256 @@
+2019-09-18 08:59:17,806 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,357 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,357 [main           ] INFO  RabbitMQEndpointTest           - Testing: createEndpointWithReplyTimeout(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,357 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,404 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-2) is starting
+2019-09-18 08:59:18,419 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,435 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,435 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,435 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,435 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,451 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-2) started in 0.031 seconds
+2019-09-18 08:59:18,451 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,451 [main           ] INFO  RabbitMQEndpointTest           - Testing done: createEndpointWithReplyTimeout(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,451 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.000 seconds (0 millis)
+2019-09-18 08:59:18,451 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,467 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-2) is shutting down
+2019-09-18 08:59:18,467 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-2) uptime 0.063 seconds
+2019-09-18 08:59:18,467 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-2) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,467 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,467 [main           ] INFO  RabbitMQEndpointTest           - Testing: testCreatingRabbitExchangeSetsCustomHeaders(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,467 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,467 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-3) is starting
+2019-09-18 08:59:18,467 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,482 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,482 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,482 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,482 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,482 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-3) started in 0.015 seconds
+2019-09-18 08:59:18,497 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,497 [main           ] INFO  RabbitMQEndpointTest           - Testing done: testCreatingRabbitExchangeSetsCustomHeaders(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,497 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.015 seconds (15 millis)
+2019-09-18 08:59:18,497 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,497 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-3) is shutting down
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-3) uptime 0.046 seconds
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-3) is shutdown in 0.016 seconds
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - Testing: createEndpointWithTransferExceptionEnabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-4) is starting
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-4) started in 0.000 seconds
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - Testing done: createEndpointWithTransferExceptionEnabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.000 seconds (0 millis)
+2019-09-18 08:59:18,513 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,513 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-4) is shutting down
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-4) uptime 0.016 seconds
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-4) is shutdown in 0.016 seconds
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - Testing: assertSingleton(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-5) is starting
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-5) started in 0.000 seconds
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - Testing done: assertSingleton(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.000 seconds (0 millis)
+2019-09-18 08:59:18,529 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-5) is shutting down
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-5) uptime 
+2019-09-18 08:59:18,529 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-5) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,544 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,544 [main           ] INFO  RabbitMQEndpointTest           - Testing: testArgConfigurer(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,544 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-6) is starting
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,544 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-6) started in 0.000 seconds
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - Testing done: testArgConfigurer(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.016 seconds (16 millis)
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-6) is shutting down
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-6) uptime 0.016 seconds
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-6) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - Testing: createEndpointWithAutoAckDisabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,560 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-7) is starting
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,560 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-7) started in 0.016 seconds
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - Testing done: createEndpointWithAutoAckDisabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.000 seconds (0 millis)
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-7) is shutting down
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-7) uptime 0.016 seconds
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-7) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - Testing: testExchangeNameIsOptional(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-8) is starting
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-8) started in 0.000 seconds
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - Testing done: testExchangeNameIsOptional(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.000 seconds (0 millis)
+2019-09-18 08:59:18,576 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-8) is shutting down
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-8) uptime 
+2019-09-18 08:59:18,576 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-8) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,591 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,591 [main           ] INFO  RabbitMQEndpointTest           - Testing: createEndpointWithSkipExchangeDeclareEnabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,591 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-9) is starting
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,591 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-9) started in 0.000 seconds
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - Testing done: createEndpointWithSkipExchangeDeclareEnabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.016 seconds (16 millis)
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-9) is shutting down
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-9) uptime 0.016 seconds
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-9) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - Testing: brokerEndpointAddressesSettings(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,607 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-10) is starting
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,607 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-10) started in 0.000 seconds
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - Testing done: brokerEndpointAddressesSettings(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.016 seconds (16 millis)
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-10) is shutting down
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-10) uptime 0.016 seconds
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-10) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - Testing: creatingExecutorUsesThreadPoolSettings(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,623 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-11) is starting
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,623 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-11) started in 0.000 seconds
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - Testing done: creatingExecutorUsesThreadPoolSettings(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.015 seconds (15 millis)
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,638 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-11) is shutting down
+2019-09-18 08:59:18,638 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-11) uptime 0.015 seconds
+2019-09-18 08:59:18,638 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-11) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - Testing: testCreatingRabbitExchangeSetsStandardHeaders(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,638 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,638 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-12) is starting
+2019-09-18 08:59:18,638 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,654 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,654 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,654 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,654 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,654 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-12) started in 0.016 seconds
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - Testing done: testCreatingRabbitExchangeSetsStandardHeaders(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.015 seconds (15 millis)
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,669 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-12) is shutting down
+2019-09-18 08:59:18,669 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-12) uptime 0.031 seconds
+2019-09-18 08:59:18,669 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-12) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - Testing: createEndpointWithSkipQueueDeclareEnabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,669 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,669 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-13) is starting
+2019-09-18 08:59:18,669 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,685 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,685 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,685 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,685 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,685 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-13) started in 0.016 seconds
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - Testing done: createEndpointWithSkipQueueDeclareEnabled(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.016 seconds (16 millis)
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,701 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-13) is shutting down
+2019-09-18 08:59:18,701 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-13) uptime 0.032 seconds
+2019-09-18 08:59:18,701 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-13) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - Testing: createEndpointWithRequestTimeoutCheckerInterval(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,701 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,701 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-14) is starting
+2019-09-18 08:59:18,701 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-14) started in 0.015 seconds
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - Testing done: createEndpointWithRequestTimeoutCheckerInterval(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.000 seconds (0 millis)
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-14) is shutting down
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-14) uptime 0.015 seconds
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-14) is shutdown in 0.000 seconds
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - Testing: testCreateConnectionFactoryDefault(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:18,716 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-15) is starting
+2019-09-18 08:59:18,716 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:18,732 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:18,732 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:18,732 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:18,732 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:18,732 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-15) started in 0.016 seconds
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - Testing done: testCreateConnectionFactoryDefault(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - Took: 1.063 seconds (1063 millis)
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-15) is shutting down
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-15) uptime 1.079 seconds
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-15) is shutdown in 0.000 seconds
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - Testing: testCreateConnectionFactoryCustom(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:19,795 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-16) is starting
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultManagementStrategy      - JMX is disabled
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultTypeConverter           - Loaded 185 type converters
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - AllowUseOriginalMessage is enabled. If access to the original message is not needed, then its recommended to turn this option off as it may improve performance.
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - StreamCaching is not in use. If using streams then its recommended to enable stream caching. See more details at http://camel.apache.org/stream-caching.html
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - Total 0 routes, of which 0 are started.
+2019-09-18 08:59:19,795 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-16) started in 0.000 seconds
+2019-09-18 08:59:20,484 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:20,484 [main           ] INFO  RabbitMQEndpointTest           - Testing done: testCreateConnectionFactoryCustom(org.apache.camel.component.rabbitmq.RabbitMQEndpointTest)
+2019-09-18 08:59:20,484 [main           ] INFO  RabbitMQEndpointTest           - Took: 0.689 seconds (689 millis)
+2019-09-18 08:59:20,484 [main           ] INFO  RabbitMQEndpointTest           - ********************************************************************************
+2019-09-18 08:59:20,484 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-16) is shutting down
+2019-09-18 08:59:20,484 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-16) uptime 0.689 seconds
+2019-09-18 08:59:20,484 [main           ] INFO  DefaultCamelContext            - Apache Camel 2.17.4 (CamelContext: camel-16) is shutdown in 0.000 seconds

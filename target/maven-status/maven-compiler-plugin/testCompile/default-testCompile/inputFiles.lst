@@ -1,0 +1,17 @@
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQRequeueIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQSupendResumeIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\testbeans\TestNonSerializableObject.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQReConnectionIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQComponentTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQRequeueHandledExceptionIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\testbeans\TestSerializableObject.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQProducerTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQConsumerIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQConsumerTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQLoadIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQEndpointTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQInOutIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQProducerIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQSpringIntTest.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\testbeans\TestPartiallySerializableObject.java
+C:\Users\Zero\git\camel\components\camel-rabbitmq\src\test\java\org\apache\camel\component\rabbitmq\RabbitMQRequeueUnhandledExceptionIntTest.java
